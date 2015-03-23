@@ -1,0 +1,9 @@
+[submodule "dcm4che"]
+	path = dcm4che
+	url = https://github.com/dcm4che/dcm4che.git
+[submodule "dcm4chee-arc-cdi"]
+	path = dcm4chee-arc-cdi
+	url = https://github.com/dcm4che/dcm4chee-arc-cdi.git
+[submodule "dcm4chee-storage2"]
+	path = dcm4chee-storage2
+	url = https://github.com/dcm4che/dcm4chee-storage2.git
